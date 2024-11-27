@@ -1,0 +1,43 @@
+{
+  "records": [
+    {
+      "State": "Gujarat",
+      "District": "Junagarh",
+      "Market": "Mangrol",
+      "Commodity": "Corriander seed",
+      "Variety": "Coriander Seed",
+      "Grade": "FAQ",
+      "Arrival_Date": "20/11/2024",
+      "Min_Price": "7000",
+      "Max_Price": "7125",
+      "Modal_Price": "7100",
+      "Commodity_Code": "108"
+    },
+    {
+      "State": "Gujarat",
+      "District": "Porbandar",
+      "Market": "Porbandar",
+      "Commodity": "Corriander seed",
+      "Variety": "Coriander Seed",
+      "Grade": "FAQ",
+      "Arrival_Date": "20/11/2024",
+      "Min_Price": "5250",
+      "Max_Price": "6825",
+      "Modal_Price": "6035",
+      "Commodity_Code": "108"
+    },
+    {
+      "State": "Gujarat",
+      "District": "Rajkot",
+      "Market": "Gondal",
+      "Commodity": "Corriander seed",
+      "Variety": "Coriander Seed",
+      "Grade": "FAQ",
+      "Arrival_Date": "20/11/2024",
+      "Min_Price": "4505",
+      "Max_Price": "8055",
+      "Modal_Price": "7105",
+      "Commodity_Code": "108"
+    }
+  ]
+}
