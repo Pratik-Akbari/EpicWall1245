@@ -2,8 +2,23 @@
   "records": [
     {
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "Guar Seed(Cluster Beans Seed)",
-      "Commodity_gu": "બીજેપીના"
+      "Commodity": "Wheat",
+      "Commodity_gu": "ઘઉં"
+    },
+    {
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
+      "Commodity": "Castor Seed",
+      "Commodity_gu": "એરંડા"
+    },
+    {
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
+      "Commodity": "Tomato",
+      "Commodity_gu": "ટામેટા"
+    },
+    {
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
+      "Commodity": "Groundnut",
+      "Commodity_gu": "મગફળી (માંડવી)"
     },
     {
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
@@ -12,274 +27,13 @@
     },
     {
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "Guar Seed(Cluster Beans Seed)",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
+      "Commodity": "Potato",
+      "Commodity_gu": "બટાકા"
     },
     {
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Guar Seed(Cluster Beans Seed)",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
-    },{
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlePmCacBpB2FkJ_5urgLpFt3OKCaweuvKX4JVlGintl7y9WPtpTaHEcPB9RPTQ05ifKfJpnqAa2YcAb9bRWf3Z_mBuWrlbDauXIl2Hj7yZqytmKPmjyezqJMTiPjYHf0kn9CrYxX4dAg5vlk9mWy-z5qsz4vS-Xr6I3L8XVAopVuD1mQQ72Pv5xxmg0/s16000/Product%2060.png",
-      "Commodity": "seed",
-      "Commodity_gu": "બીજેપીના"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMaeGI_UZcC9hh3GpYtssUZeDTGuuYOxlFV60VN0QsywizyO2E_sqKACZRdVNt-MSyo4XG6vqF7HdWApLZlF0nfiq1F-VzKK-fWB5FQ18F3hG1GEbM7DwgAGv59kLKlIq9wxGYMK4VV_GiMg3x2kGUUWTHNoaggxnyossx46jvA81WtTGx0gykQlsAxMA/s16000/Product%2059.png",
-      "Commodity": "Corriander",
-      "Commodity_gu": "શિંદેએ"
-    },
-    {
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWKrrLONnYJi5Tt9HshUrviRCifupQeP2Kh1EuyjBiBKQcKZRnxTWMNttsD90bZO2DSI0iaKl_wPrblDP2pMpiZjMM_e5blNjTpP-fasd4FQ-tWOfpQsM3fyeWzUkPY1vV9TPo_k2Ftym1D6C3D1A_XWCFO71K95ohTh-qcVn__kktgN6xKnBCxKYu-w/s16000/Product%2057%20(1).png",
-      "Commodity": "Tomato",
-      "Commodity_gu": "મોદી"
+      "Commodity": "Guar",
+      "Commodity_gu": "ગુવાર"
     }
   ]
 }
